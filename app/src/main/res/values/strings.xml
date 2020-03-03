@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Alexandria</string>
+    <string name="nav_header_subtitle">Egypt</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_sight">Sight</string>
+    <string name="menu_hotel">Hotel</string>
+    <string name="menu_restaurant">Restaurant</string>
+    <string name="menu_entertainment">Entertainment</string>
+
+    <string name="sight_abouelabbas">Abou Elabbas Mousque</string>
+    <string name="sight_greecoroman">Greeco Roman Museum</string>
+    <string name="sight_montaza">The Palace of Montaza</string>
+    <string name="sight_qaitbay">The citadel of Qaitbay</string>
+    <string name="sight_raml">The Raml Station</string>
+    <string name="sight_stanley">Stanely Bridge</string>
+    <string name="sight_bibleotecha">Bibleotecha Alexandrina</string>
+
+    <string name="hotel_almohrousa">The Fleet Hotel(Al Mahrousa)</string>
+    <string name="hotel_sanstefano">San Stefano Residence</string>
+
+
+    <string name="restaurant_hosny">Hosny Restaurant</string>
+    <string name="restaurant_kadoura">Kadoura Restaurant</string>
+
+    <string name="entertainment_africano">Africano Park</string>
+    <string name="entertainment_anfoushi">Al Anfoushi Culture Center</string>
+    <string name="entertainment_carrefour">Carrefour Mall</string>
+    <string name="entertainment_amir">Cinema Amir</string>
+    <string name="entertainment_florence">Florence Mega Mall</string>
+    <string name="entertainment_greenplaza">The green Plaza Park</string>
+    <string name="entertainment_orouba">El Orouba Mall</string>
+    <string name="entertainment_sanstefano">Sna Stefano Mall</string>
+
+
+
+</resources>
